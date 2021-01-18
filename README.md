@@ -12,7 +12,7 @@ $ yarn install
 
 ```bash
 $ export NEWS_API_TOKEN=af41c86f654a4f2d88338ae25d6b85aa 
-$ export export NEWS_API_URI=https://newsapi.org/v2/
+$ export NEWS_API_URI=https://newsapi.org/v2/
 ```
 
 ## Running the app
